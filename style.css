@@ -5,3 +5,19 @@
   padding: 0;
   background-color: #fff;
 }
+
+.blank-square,
+.coloured-square {
+  width: 60px;
+  height: 60px;
+  margin: 0;
+  border-width: 0;
+}
+
+.blank-square {
+  background-color: #fff;
+}
+
+.coloured-square {
+  background-color: #000;
+}
